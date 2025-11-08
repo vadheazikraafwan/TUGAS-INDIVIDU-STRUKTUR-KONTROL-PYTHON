@@ -15,11 +15,9 @@ Program meminta input nama film, jumlah tiket, jenis tiket, dan usia, lalu menen
 - Menghitung total harga semua tiket dengan For Loop
 - Menampilkan ringkasan hasil pemesanan (film, jumlah tiket, total bayar)
 ## Teknik yang Digunakan
- Input
-
- For Loop
-
- Nesting If
+- [ ] Input
+- [ ] For Loop
+- [ ] Nesting If
 ## Screenshot Output
 Outputsistembookingtiket.png
 ## Cara Menjalankan
